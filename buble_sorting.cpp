@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-
+//Buble Sorting
 int temp=0;
   
 int array[8]={1,7,43,37,24,13,8,4};
